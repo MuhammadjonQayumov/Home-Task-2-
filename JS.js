@@ -249,3 +249,14 @@
 // }
 // console.log(three(555));
 
+//reverse
+// let rev = 0
+// function reverse(a){
+//     if(a<=0){
+//         return Math.floor(rev/10)
+//     }
+//     rev+=a%10
+//     rev=rev*10
+//     return reverse(Math.floor(a/10))
+// }
+// console.log(reverse(123));
